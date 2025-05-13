@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+genetic_algo_karen/__init__.py
+genetic_algo_karen/genetic.py
+genetic_algo_karen/test_genetic.py
+genetic_algo_karen.egg-info/PKG-INFO
+genetic_algo_karen.egg-info/SOURCES.txt
+genetic_algo_karen.egg-info/dependency_links.txt
+genetic_algo_karen.egg-info/top_level.txt
